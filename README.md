@@ -10,7 +10,7 @@
   <strong>A Proof-of-Concept (PoC) Linux Kernel Module demonstrating Direct Kernel Object Manipulation (DKOM) for process hiding.</strong>
 </p>
 
-[Report Bug](https://github.com/your-username/titan-rootkit/issues)
+[Report Bug](https://github.com/egetones/titan-rootkit/issues)
 
 </div>
 
